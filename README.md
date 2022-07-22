@@ -12,3 +12,7 @@
 
 
 <a href="https://drive.google.com/file/d/1vTOnswnFGa5YzNrHzCOuYpLlWIMAFV9V/view?usp=sharing" rel="Software">![Software](https://github.com/guru-narayana/rubiks_cube_solver/blob/master/Images/Software.png)</a>
+
+<p align="justify">This video demonstrates the usage of the said application</p>
+
+[![Alt text](https://img.youtube.com/vi/N7yglHETI34/0.jpg)](https://www.youtube.com/watch?v=N7yglHETI34)
